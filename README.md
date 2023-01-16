@@ -1,7 +1,7 @@
 # ArduinoGameController
  
 ## Menu
-<img width="278" alt="menu" src="https://user-images.githubusercontent.com/92087014/212650674-b859029c-d3bf-4795-9322-0b28ad4d0d34.png">
+<img width="478" alt="menu" src="https://user-images.githubusercontent.com/92087014/212650674-b859029c-d3bf-4795-9322-0b28ad4d0d34.png">
 
 
 ## video:
